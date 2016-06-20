@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllocatedWPF", "WpfApplication1\AllocatedWPF.csproj", "{6A3DA46F-777F-46DD-8649-4F8D83668E5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cDoor", "..\ControlTest\cDoor\cDoor.csproj", "{C476CE49-EB61-4DFE-842A-B5856BA054FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A3DA46F-777F-46DD-8649-4F8D83668E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3DA46F-777F-46DD-8649-4F8D83668E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3DA46F-777F-46DD-8649-4F8D83668E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3DA46F-777F-46DD-8649-4F8D83668E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C476CE49-EB61-4DFE-842A-B5856BA054FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C476CE49-EB61-4DFE-842A-B5856BA054FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C476CE49-EB61-4DFE-842A-B5856BA054FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C476CE49-EB61-4DFE-842A-B5856BA054FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
